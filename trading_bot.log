@@ -1,0 +1,6 @@
+2025-12-14 16:28:23,827 - INFO - Binance Client initialized successfully (Testnet: True)
+2025-12-14 16:29:03,242 - INFO - Attempting to place BUY MARKET order for 15.0 BTCUSDT...
+2025-12-14 16:29:03,869 - ERROR - Binance API Error: 400 - Margin is insufficient.
+2025-12-14 16:33:35,605 - INFO - Attempting to place BUY MARKET order for 1.0 BTCUSDT...
+2025-12-14 16:33:36,116 - INFO - Order placed successfully! Order ID: 10818362464
+2025-12-14 16:33:36,116 - INFO - Order Details: {'orderId': 10818362464, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJa4332345ddbd6c35b516c2', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '1.000', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1765710216124}
